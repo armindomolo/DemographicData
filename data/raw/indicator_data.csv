@@ -1,0 +1,266 @@
+INDICATOR,Indicator
+CME_ARR_10T19,Annual Rate of Reduction in Mortality Rate Age 10-19
+CME_ARR_SBR,Annual rate of reduction in stillbirth rate
+CME_ARR_U5MR,Annual rate of reduction in under-five mortality rate
+CME_MRM0,Neonatal mortality rate
+CME_MRM1T11,Mortality rate age 1-11 months
+CME_MRM1T59,Mortality rate 1-59 months
+CME_MRY0,Infant mortality rate
+CME_MRY0T4,Under-five mortality rate
+CME_MRY10T14,Mortality rate age 10-14
+CME_MRY10T19,Mortality rate age 10-19
+CME_MRY15T19,Mortality rate age 15-19
+CME_MRY15T24,Mortality rate age 15-24
+CME_MRY1T4,Child mortality rate (aged 1-4 years)
+CME_MRY20T24,Mortality rate age 20-24
+CME_MRY5T14,Mortality rate (children aged 5 to 14 years)
+CME_MRY5T24,Mortality rate age 5-24
+CME_MRY5T9,Mortality rate age 5-9
+CME_PND,Neonatal deaths as a percentage of under-five deaths
+CME_SB,Stillbirths
+CME_SBR,Stillbirth rate
+CME_TMM0,Neonatal deaths
+CME_TMM1T11,Deaths age 1-11 months
+CME_TMM1T59,Deaths age 1-59 months
+CME_TMY0,Infant deaths
+CME_TMY0T4,Under-five deaths
+CME_TMY10T14,Deaths aged 10 to 14
+CME_TMY10T19,Deaths aged 10 to 19
+CME_TMY15T19,Deaths aged 15 to 19
+CME_TMY15T24,Deaths aged 15 to 24
+CME_TMY1T4,Child deaths (aged 1-4 years)
+CME_TMY20T24,Deaths aged 20 to 24
+CME_TMY5T14,Deaths (children aged 5-14)
+CME_TMY5T24,Deaths aged 5 to 24
+CME_TMY5T9,Deaths aged 5 to 9
+DM_BRTS,Number of births
+DM_BRTS_SURVIVING_1,Live Births Surviving to Age 1
+DM_DPR_CHD,Child dependency ratio
+DM_DPR_OLD,Old age dependency ratio
+DM_DPR_TOT,Total dependency ratio
+DM_FRATE_TOT,Total fertility rate
+DM_LIFE_EXP,Life expectancy
+DM_NET_MG_RATE,"Net migration rate (per 1,000 population)"
+DM_POP_15TO24,Youth population from 15 to 24
+DM_POP_ADLCNT,Adolescent population (10-19)
+DM_POP_ADLCNT_PROP,Adolescent population as proportion of total population (%)
+DM_POP_CHILD_PROP,Children population as proportion of total population (%)
+DM_POP_GRT,Population annual growth rate
+DM_POP_TOT,Total population
+DM_POP_U18,Population under age 18
+DM_POP_U5,Population under age 5
+ECD_CHLD_36-59M_EDU-PGM,Percentage of children aged 36-59 months attending an early childhood education programme
+ECON_GVT_EDU_EXP_PTEXP,government expenditure on education (% government budget)
+ECON_GVT_EDU_EXP_PTGDP,government expenditure on education (% GDP)
+ECON_GVT_EXP_PTGDP,government expenditure (% GDP)
+ECON_GVT_HLTH_EXP_PTEXP,government expenditure on health (% government budget)
+ECON_GVT_HLTH_EXP_PTGDP,government expenditure on health (% GDP)
+ECON_GVT_REV_PTGDP,government revenue (%GDP)
+ECON_ODA_INFLOW_PTGNI,ODA inflow (%GNI)
+ECON_ODA_INFLOW_USD,ODA inflow (USD)
+ECON_SOC_PRO_EXP_PTEXP,government expenditure on social protection (% government budget)
+ECON_SOC_PRO_EXP_PTGDP,government expenditure on social protection (% GDP)
+ED_ANAR_L02,"Adjusted net attendance rate, one year before the official primary entry age"
+ED_ANAR_L1,Adjusted net attendance rate for children of primary school age
+ED_ANAR_L2,Adjusted net attendance rate for adolescents of lower secondary school age
+ED_ANAR_L3,Adjusted net attendance rate for youth of upper secondary school age
+ED_CR_L1,Completion rate for children of primary school age
+ED_CR_L2,Completion rate for adolescents of lower secondary school age
+ED_CR_L3,Completion rate for youth of upper secondary education school age
+ED_ROFST_L02_ADM,Out-of-school rate for children one year younger than official entry age (administrative data)
+ED_ROFST_L1,Out-of-school rate for children of primary school age
+ED_ROFST_L2,Out-of-school rate for adolescents of lower secondary school age
+ED_ROFST_L3,Out-of-school rate for youth of upper secondary school age
+GN_ED_ATTN,Educational attainment of the population (aged 25 years and older)
+GN_FB_BNK_ACCSS,Proportion of adolescents and adults (aged 15 years and older) with an account at a financial institution or mobile money service provider
+GN_IT_MOB_OWN,Proportion of individuals who own a mobile telephone
+GN_LF_PTCPN,Labour force participation rate
+GN_MTNTY_LV_BNFTS,Maternity leave benefits
+GN_PTNTY_LV_BNFTS,Paternity leave benefits
+GN_UNMPLY,Labour force unemployment rate
+HVA_EPI_DTH_ANN,Estimated number of annual AIDS-related deaths
+HVA_EPI_DTH_RT,"Estimated rate of annual AIDS-related deaths (per 100,000 population)"
+HVA_EPI_INF_ANN,Estimated number of new HIV infections
+HVA_EPI_INF_RT,"Estimated incidence rate (new HIV infection per 1,000 uninfected population)"
+HVA_EPI_LHIV,Estimated number of children living with HIV
+HVA_PED_ART_CVG,Per cent of children (aged 0-14 years) living with HIV and receiving antiretroviral therapy (ART)
+HVA_PED_ART_NUM,Reported number of children (aged 0-14 years) receiving antiretroviral treatment (ART)
+HVA_PED_EID_CVG,Per cent of infants born to pregnant women living with HIV who received a virological test for HIV within 2 months of birth
+HVA_PED_EID_NUM,Reported number of infants born to pregnant women living with HIV who received a virological test for HIV within 2 months of birth
+HVA_PED_LOST,Estimated number of children (aged 0-17 years) who have lost one or both parents due to all causes
+HVA_PED_LOST_AIDS,Estimated number of children (aged 0-17 years) who have lost one or both parents due to AIDS
+HVA_PMTCT_ARV_CVG,Per cent of pregnant women living with HIV receiving effective ARVs for PMTCT (excludes single-dose nevirapine)
+HVA_PMTCT_ARV_NUM,Reported number of pregnant woment living with HIV receiving anitretroviral treatments (ARVs) for prevention of mother to child transmission programmes (PMTCT)
+HVA_PMTCT_MTCT,Mother-to-child HIV transmission rate
+HVA_PMTCT_STAT_CVG,Per cent of pregnant women presenting at ANC who were tested for HIV or already knew their HIV positive status
+HVA_PMTCT_STAT_NUM,Reported number of pregnant women presenting at antenatal clinics (ANC) who were tested for HIV or already knew their HIV positive status
+HVA_PREV_KNOW_TEST,Per cent of young people (aged 15-24 years) who know a place to get tested for HIV
+HVA_PREV_TEST_RES,Per cent of young people (aged 15-24 years) who have ever been tested for HIV and received the result of the last test
+IM_BCG,Percentage of live births who received bacille Calmette-Guerin (vaccine against tuberculosis)
+IM_DTP1,Percentage of surviving infants who received the first dose of DTP-containing vaccine
+IM_DTP3,Percentage of surviving infants who received the third dose of DTP-containing vaccine
+IM_HEPB3,Percentage of surviving infants who received the third dose of hep B-containing vaccine
+IM_HIB3,Percentage of surviving infants who received the third dose of Hib-containing vaccine
+IM_IPV1,Percentage of surviving infants who received the first dose of inactivated polio-containing vaccine
+IM_IPV2,Percentage of surviving infants who received the second dose of inactivated polio-containing vaccine
+IM_MCV1,Percentage of surviving infants who received the first dose of measles-containing vaccine
+IM_MCV2,"Percentage of children who received the 2nd dose of measles-containing vaccine, as per administered in the national schedule"
+IM_PAB,Percentage of newborns protected at birth against tetanus with tetanus toxoid
+IM_PCV3,Percentage of surviving infants who received the third dose of pneumococcal conjugate-containing vaccine (PCV)
+IM_POL3,Percentage of surviving infants who received the third dose of inactivated polio-containing vaccine
+IM_RCV1,Percentage of surviving infants who received the first dose of rubella-containing vaccine
+IM_ROTAC,Percentage of surviving infants who received the last dose of rotavirus-containing vaccine (2nd or 3rd dose depending on vaccine used)
+IM_YFV,Percentage of surviving infants who received yellow fever- containing vaccine (for countries at risk and where the vaccine is in the national schedule)
+MG_INTERNAL_DISP_PERS,Internally displaced persons (IDPs)
+MG_INTNL_MG_CNTRY_DEST,"International migrants, by country of destination"
+MG_NEW_INTERNAL_DISP,New internal displacements
+MG_RFGS_CNTRY_ASYLM,"Refugees, by country of asylum"
+MG_RFGS_CNTRY_ASYLM_PER1000,"Refugees by host country, per 1000 population"
+MG_RFGS_CNTRY_ASYLM_PER_USD_GNI,"Refugees by host country, per 1 USD GNI per capita"
+MG_RFGS_CNTRY_ORIGIN,"Refugees, by country of origin"
+MNCH_ABR,"Adolescent birth rate (number of live births to adolescent women per 1,000 adolescent women)"
+MNCH_ADO_ALCOHOL,Percentage of adolescents (aged 15-19 years) who had at least one alcoholic drink at any time during the last 12 months
+MNCH_ANC1,Antenatal care 1+ visit - percentage of women (aged 15-49 years) attended at least once during pregnancy by skilled health personnel
+MNCH_ANC4,Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider
+MNCH_BIRTH18,Early childbearing - percentage of women (aged 20-24 years) who gave birth before age 18
+MNCH_CSEC,C-section rate - percentage of deliveries by cesarean section
+MNCH_DEMAND_FP,Demand for family planning satisfied with modern methods - percentage of women (aged 15-49 years)
+MNCH_DIARCARE,Careseeking for diarrhoea - percentage of children (under age 5) with diarrhoea for whom advice or treatment was sought from a health facility or provider
+MNCH_INFDEC,"Proportion of women aged 15-19 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+MNCH_INSTDEL,Institutional deliveries - percentage of deliveries in a health facility
+MNCH_IPTP,IPTp for pregnant women - percentage of women (aged 15-49 years) who received three or more doses of intermittent preventive treatment during antenatal care visits during their last pregnancy
+MNCH_ITN,ITN use by children - percentage of children (under age 5) who slept under an insecticide-treated mosquito net the night prior to the survey
+MNCH_ITN2,Household with insecticide treated net (ITN) and/or indoor residual spraying (IRS) - percentage of households with at least one ITN for every two persons and/or IRS in the past 12 months
+MNCH_ITNOWN,Percentage of households with at least one insecticide-treated mosquito net (ITN)
+MNCH_ITNPREG,Pregnant women sleeping under ITN - percentage of pregnant women (aged 15-49 years) who slept under an insecticide-treated net the previous night
+MNCH_LIFE_EXPECTANCY,Life expectancy at birth - number of years newborn female children would live if subject to the mortality risks prevailing for the cross section of population at the time of their birth (estimated)
+MNCH_LTR_MATERNAL_DEATH,Lifetime risk of maternal death (probability (1 in X) that a 15-year-old girl (in the year of the estimate) will eventually die from a maternal cause)
+MNCH_MATERNAL_DEATHS,Maternal deaths (estimated)
+MNCH_MLRACT,"Malaria, first line treatment - percentage of febrile children (under age 5) receiving ACT (first line antimalarial drug), among those receiving any antimalarial drugs"
+MNCH_MLRCARE,Careseeking for febrile children - percentage of children (under age 5) with fever for whom advice or treatment was sought from a health facility or provider
+MNCH_MLRDIAG,Malaria diagnostics - percentage of febrile children (under age 5) who had a finger or heel stick for malaria testing
+MNCH_MMR,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)"
+MNCH_ORS,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS (packets or pre-packaged fluids)
+MNCH_ORSZINC,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc
+MNCH_ORTCF,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORT (oral rehydration salts or recommended homemade fluids or increased fluids) and continued feeding
+MNCH_PNCMOM,Postnatal care for mothers - percentage of women (aged 15-49 years) who received postnatal care within 2 days of giving birth
+MNCH_PNCNB,Postnatal care for newborns - percentage of newborns who have a postnatal contact with a health provider within 2 days of delivery
+MNCH_PNEUCARE,Careseeking for ARI - percentage of children (under age 5) with acute respiratory infection symptoms whom advice or treatment was sought from a health facility or provider
+MNCH_SAB,Skilled birth attendant - percentage of deliveries attended by skilled health personnel
+MNCH_UHC,Coverage of essential health services
+MNCH_UHC_RMNCH,"Universal health coverage index for reproductive, maternal, newborn and child-health interventions"
+MNCH_ZINC,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc
+NT_ANE_WOM_15_49_MOD,Prevalence of anaemia in women aged 15-49 (Modeled Estimates)
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting)
+NT_ANT_HAZ_NE2_MOD,"Height-for-age <-2 SD (stunting), Modeled Estimates"
+NT_ANT_HAZ_NE2_MOD_NUMTH,"Height-for-age <-2 SD (Stunting) Modeled Estimates, Numbers Affected"
+NT_ANT_WAZ_NE2,Weight-for-age <-2 SD (Underweight)
+NT_ANT_WHZ_NE2,Weight-for-height <-2 SD (wasting)
+NT_ANT_WHZ_NE3,Weight-for-height <-3 SD (severe wasting)
+NT_ANT_WHZ_PO2,Weight-for-height >+2 SD (overweight)
+NT_ANT_WHZ_PO2_MOD,"Weight-for-height >+2 SD (overweight), Modeled Estimates"
+NT_ANT_WHZ_PO2_MOD_NUMTH,"Weight-for-height >+2 SD (Overweight) Modeled Estimates, Numbers Affected"
+NT_BF_CBF_12_23,Continued breastfeeding (12-23 months)
+NT_BF_EBF,Ever breastfed (0-23 months)
+NT_BF_EIBF,Early initiation of breastfeeding
+NT_BF_EXBF,Exclusive breastfeeding (0-5 months)
+NT_BF_EXBF_2D,Exclusively Breastfed for the First Two Days After Birth
+NT_BF_MIXMF,Mixed Milk Feeding (0-5 months)
+NT_BW_LBW,Prevalence of low birth weight among new-borns
+NT_BW_WEI,Children with a birth weight
+NT_CF_ASF,Egg and/or flesh foods consumption (6-23months)
+NT_CF_FG_0_T_2,Severe food poverty
+NT_CF_FG_3_T_4,Moderate food poverty
+NT_CF_ISSSF_FL,"Introduction to solid, semi-solid foods (6-8 months)"
+NT_CF_MAD,Minimum acceptable diet (children aged 6-23 months)
+NT_CF_MDD,Minimum diet diversity (children aged 6 to 23 months)
+NT_CF_MMF,Minimum meal frequency (children aged 6 to 23 months)
+NT_CF_ZEROFV,Zero vegetable or fruit consumption (6-23months)
+NT_DANT_BMI_G25_MOD,"Prevalence of overweight among adults, BMI ≥ 25 (Crude estimate)"
+NT_DANT_BMI_G30_MOD_ADJ,"Prevalence of obesity among adults, BMI ≥ 30 (Age-standardized estimate)"
+NT_DANT_BMI_L18_MOD,"Prevalence of underweight among adults, BMI < 18.5 (Age-standardized estimate)"
+NT_IOD_ANY_TH,Iodized salt consumption (>0 ppm) among all tested households
+NT_IOD_ANY_TS,Iodized salt consumption (>0 ppm) among all tested households with salt
+NT_VAS_S1,"Vitamin A Supplementation, Semester 1 Coverage"
+NT_VAS_S2,"Vitamin A Supplementation, Semester 2 Coverage"
+NT_VAS_TWODOSE,"Vitamin A Supplementation, two-dose coverage"
+PT_ADLS_10-14_LBR_HC,Percentage of adolescents (aged 10-14 years) engaged in household chores
+PT_CHLD_5-17_LBR_ECON,Percentage of children (aged 5-17 years) engaged in child labour (economic activities)
+PT_CHLD_5-17_LBR_ECON-HC,Percentage of children (aged 5-17 years) engaged in child labour (economic activities and household chores)
+PT_CHLD_Y0T4_REG,Percentage of children under age 5 whose births are registered
+PT_F_15-19_MRD,Percentage of girls aged 15-19 years who are currently married or in union
+PT_F_15-49_W-BTNG,Percentage of women (aged 15-49 years) who consider a husband to be justified in hitting or beating his wife for at least one of the specified reasons
+PT_F_18-29_SX-V_AGE-18,Percentage of women (aged 18-29 years) who experienced sexual violence by age 18
+PT_F_20-24_MRD_U15,Percentage of women (aged 20-24 years) married or in union before age 15
+PT_F_20-24_MRD_U15_TND,"Percentage of women aged 20 to 24 years who were first married or in union before age 15 (UNICEF analysis, trend)"
+PT_F_20-24_MRD_U18,Percentage of women (aged 20-24 years) married or in union before age 18
+PT_F_20-24_MRD_U18_TND,"Percentage of women aged 20 to 24 years who were first married or in union before age 18 (UNICEF analysis, trend)"
+PT_F_TMRD15,Total number of girls and women of all ages who were first married or in union before age 15
+PT_F_TMRD18,Total number of girls and women of all ages who were first married or in union before age 18
+PT_M_15-19_MRD,Percentage of boys aged 15-19 years who are currently married or in union
+PT_M_20-24_MRD_U18,Percentage of men (aged 20-24 years) married or in union before age 18
+PV_ADOLESCENT,Adolescent poverty
+PV_CHLD_DPRV-AVG-HS,Average number of deprivations suffered per child. Homogeneous moderate standards
+PV_CHLD_DPRV-AVG-POV-HS,Average number of deprivations for children suffering at least one deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-AVG-POV-S-HS,Average number of deprivations for children suffering at least one deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-AVG-S-HS,Average number of deprivations suffered per child. Homogeneous severe standards
+PV_CHLD_DPRV-E1-HS,Percentage Children suffering exactly one deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-E2-HS,Percentage Children suffering exactly two deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-E3-HS,Percentage Children suffering exactly three deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-E4-HS,Percentage Children suffering exactly four deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-E5-HS,Percentage Children suffering exactly five deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-L1-HS,Percentage children suffering at least one deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-L2-HS,Percentage children suffering at least two deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-L3-HS,Percentage children suffering at least three deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-L4-HS,Percentage children suffering at least four deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-L5-HS,Percentage children suffering at least five deprivation. Homogeneous moderate standards
+PV_CHLD_DPRV-S-E1-HS,Percentage Children suffering exactly one deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-S-E2-HS,Percentage Children suffering exactly two deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-S-E3-HS,Percentage Children suffering exactly three deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-S-E4-HS,Percentage Children suffering exactly four deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-S-E5-HS,Percentage Children suffering exactly five deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-S-L1-HS,Percentage children suffering at least one deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-S-L2-HS,Percentage children suffering at least two deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-S-L3-HS,Percentage children suffering at least three deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-S-L4-HS,Percentage children suffering at least four deprivation. Homogeneous severe standards
+PV_CHLD_DPRV-S-L5-HS,Percentage children suffering at least five deprivation. Homogeneous severe standards
+PV_LEVEL,Poverty Level
+PV_VMIR,Vast Majority Income Ratio
+SPP_CHLD_SOC_PROT,Proportion of children covered by social protection
+SPP_GDPPC,GDP per capita (current US$)
+SPP_GINI,Gini Coefficient
+SPP_HSLD_INCOME_SHARE,Share of household income (%)
+SPP_MOTHERS_CASH_BNF,Mothers with newborns receiving cash benefit (%)
+SPP_PALMA,Palma Index of income inequality
+SPP_VMI,VMI (vast majority index of income inequality)
+WS_HCF_W-N,Proportion of health care facilities with no water service
+WS_PPL_H-B,Proportion of population with a handwashing facility with soap and water available at home
+WS_PPL_H-L,Proportion of population with a limited handwashing facility
+WS_PPL_H-N,Proportion of population with no handwashing facility at home
+WS_PPL_S-ALB,Proportion of population using at least basic sanitation services
+WS_PPL_S-I,Proportion of population using improved sanitation facilities
+WS_PPL_S-L,Proportion of population using limited sanitation services
+WS_PPL_S-LAT,Proportion of population using improved latrines and other improved facilities
+WS_PPL_S-OD,Proportion of population practising open defecation
+WS_PPL_S-SEP,Proportion of population using sanitation facilities connected to septic tanks
+WS_PPL_S-SEW,Proportion of population using sanitation facilities connected to sewer networks
+WS_PPL_S-UI,Proportion of population using unimproved sanitation facilites
+WS_PPL_W-ALB,Proportion of population using at least basic drinking water services
+WS_PPL_W-AVA,Proportion of population using improved drinking water sources available when needed
+WS_PPL_W-I,Proportion of population using improved drinking water sources
+WS_PPL_W-L,Proportion of population using limited drinking water services
+WS_PPL_W-NP,Proportion of population using non-piped improved drinking water sources
+WS_PPL_W-P,Proportion of population using piped drinking water sources
+WS_PPL_W-PRE,Proportion of population using improved drinking water sources located on premises
+WS_PPL_W-SW,Proportion of population using surface water
+WS_PPL_W-UI,Proportion of population using unimproved drinking water sources
+WS_SCH_H-F,Proportion of schools with handwashing facilities
+WS_SCH_H-N,Proportion of schools with no hygiene service
+WS_SCH_S-N,Proportion of schools with no sanitation service
+WS_SCH_W-I,Proportion of schools with improved drinking water sources
+WS_SCH_W-N,Proportion of schools with no drinking water service
+WT_ADLS_10-17_LBR_ECON,Child labour thresholds (economic activity)
+WT_ADLS_10-17_LBR_HC,Child labour thresholds (household chores)
+WT_ADLS_10-17_TIME_HC,Time spent in household chores
+WT_ADLS_15-19_ED_NEET,"Percentage of adolescents (aged 15-19 years) not in education, employment or training"
+WT_ADLS_15-19_LAB_FRC_UNEMP,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed

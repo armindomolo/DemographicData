@@ -1,0 +1,13 @@
+Base de dados do projeto:
+base de dados das informacoes dos paises:
+url = "https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json"
+todos indicadores da unicef:
+
+# unicef data
+url_geral = "https://sdmx.data.unicef.org/ws/public/sdmxapi/rest/data/UNICEF,GLOBAL_DATAFLOW,1.0/AGO..?format=csv&labels=both"
+
+# world_bank data
+spending_gov:
+"https://api.worldbank.org/v2/country/all/indicator/GC.XPN.TOTL.GD.ZS?format=json&per_page=500"
+
+

@@ -1,4 +1,7 @@
-urls = {
+# All the URL
+
+
+urls_data: dict[str, dict[str, str]] = {
     "world_bank": {
         "spending_gov": "https://api.worldbank.org/v2/country/all/indicator/GC.XPN.TOTL.GD.ZS?format=json&per_page=500",
         "gdp": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD?format=json&per_page=500",
@@ -12,16 +15,7 @@ urls = {
         "quality_of_education": "https://api.worldbank.org/v2/country/all/indicator/SE.PRM.CMPT.ZS?format=json&per_page=500",
         "military_expenditure": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.GD.ZS?format=json&per_page=500",
         "government_expenditure": "https://api.worldbank.org/v2/country/all/indicator/GC.XPN.TOTL.GD.ZS?format=json&per_page=500",
-        "nutrition": "https://api.worldbank.org/v2/country/all/indicator/SH.STA.MALN.ZS?format=json&per_page=500"
-    },
-    "imf": {
-        "gdp": "https://www.imf.org/external/datamapper/api/v1/NGDPD",
-        "gdp_per_capita": "https://www.imf.org/external/datamapper/api/v1/NGDPDPC",
-        "gdp_per_capita_growth": "https://www.imf.org/external/datamapper/api/v1/NGDPDPCDG",
-        "spending_gov": "https://www.imf.org/external/datamapper/api/v1/GCXPNTOTLGDZS",
-        "education_expenditure": "https://www.imf.org/external/datamapper/api/v1/SEXPDTOTLGDZS",
-        "military_expenditure": "https://www.imf.org/external/datamapper/api/v1/MSMILXPNDGDZS",
-        "government_expenditure": "https://www.imf.org/external/datamapper/api/v1/GCXPNTOTLGDZS"
+        "nutrition": "https://api.worldbank.org/v2/country/all/indicator/SH.STA.MALN.ZS?format=json&per_page=500",
     },
     "unicef": {
         "education_expenditure": "https://data.unicef.org/wp-content/uploads/2023/11/education_expenditure.json",
@@ -31,20 +25,22 @@ urls = {
         "quality_of_education": "https://data.unicef.org/wp-content/uploads/2023/11/quality_of_education.json",
         "nutrition": "https://data.unicef.org/wp-content/uploads/2023/11/nutricion.json",
         "military_expenditure": "https://data.unicef.org/wp-content/uploads/2023/11/military_expenditure.json",
-        "government_expenditure": "https://data.unicef.org/wp-content/uploads/2023/11/government_expenditure.json"
-    }
+        "government_expenditure": "https://data.unicef.org/wp-content/uploads/2023/11/government_expenditure.json",
+    },
 }
-# Function to get the URL for a specific indicator and source
-def get_url(indicator, source):
-    if source in urls and indicator in urls[source]:
-        return urls[source][indicator]
-    else:
-        print(f"URL not found for indicator '{indicator}' and source '{source}'.")
+
+
+# extrat links from urls_data and return a list of urls
+def get_urls(font, indicator) -> str | None:
+    try:
+        url: str | None = urls_data.get(font, {}).get(indicator)
+        return url if url else None
+    except Exception as e:
+        print(f"Error occurred while fetching URL for {font} and {indicator}: {e}")
         return None
+
+
 if __name__ == "__main__":
-    def get_url(indicator, source):
-        if source in urls and indicator in urls[source]:
-            return urls[source][indicator]
-        else:
-            print(f"URL not found for indicator '{indicator}' and source '{source}'.")
-            return None    
+    for font, indicators in urls_data.items():
+        for indicator, url in indicators.items():
+            print(f"Font: {font}, Indicator: {indicator}")

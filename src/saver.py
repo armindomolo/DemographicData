@@ -10,7 +10,6 @@ from urllib import response
 import geopandas as gpd
 import pandas as pd
 import requests
-from rich.abc import f
 
 
 # Define a function to save the DataFrame to a CSV file
